@@ -2,8 +2,9 @@
 Hello everyone!!!!
 I am **RYAN SHAIKH** currently working as a Web Development and Designing Intern at The Sparks Foundation.
 This is the task 1 given to Me and I have to create a Simple Dynamic Website.
-worked as Frontend Developer and learned to develop dynamic websites. 
-It used to transfer virtual money between multiple users and also recorded the banking transactions and users history.
+
+
+**You Can transfer virtual money between multiple users and also recorded the banking transactions and users history.**
 
 Screenshot "HomePage"
 ![Screenshot (70)](https://user-images.githubusercontent.com/69433479/195266941-34b40dbd-ac8c-4fe6-a3b2-ff3c5f26dd3c.png)
